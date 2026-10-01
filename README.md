@@ -39,7 +39,6 @@ Then open `index.html` in your browser.
 ## Contact
 
 - 📧 Email: muhammadhassanch186@gmail.com
-- 💼 Upwork: *(add your profile link)*
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-259962363
 
 ## License
